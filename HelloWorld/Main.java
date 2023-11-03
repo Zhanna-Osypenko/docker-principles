@@ -1,5 +1,7 @@
 package HelloWorld;
 
+const zhanna = 'Hello, Zhanna!!!'
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         boolean flag = true;
